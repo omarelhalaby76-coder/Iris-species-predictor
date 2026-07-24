@@ -12,7 +12,7 @@ $ pip install scikit-learn
 ```
 
 # Dataset
-the dataset contains 150 samples of 3 species of Iris flowers , perfectly balanced 50,50,59
+the dataset contains 150 samples of 3 species of Iris flowers , perfectly balanced 50,50,50
 the dataset dosent have any unrealistic measurments or missing values.
 
 # Running the file
