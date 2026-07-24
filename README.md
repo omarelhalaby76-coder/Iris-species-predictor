@@ -7,6 +7,7 @@ Pandas, scikit-learn
 
 # Installing The Required Libraries
 pip install pandas
+
 pip install scikit-learn
 
 # Dataset
@@ -15,7 +16,8 @@ the dataset dosent have any unrealistic measurments or missing values.
 
 # Running the file
 
-make sure the csv file and the python file are in the same directory and then open a terminal and type:
-python main.py
+make sure the csv file and the python file are in the same directory and then open a terminal and type:                     
+
+$ python main.py
 
 it will ask for measurments as float, please input them exactly as measured and in realistic numbers or else the model predictions will be inaccurate.
